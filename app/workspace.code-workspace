@@ -1,0 +1,11 @@
+{
+  "folders": [
+	{
+		"name": "JavaScript-Library",
+		"path": "../.."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "JavaScript-Library"
+  }
+}
